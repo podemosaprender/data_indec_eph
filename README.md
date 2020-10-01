@@ -15,4 +15,6 @@ df= pd.read_csv(EphUrlPfx+'hogar/hogar_a15t1.tsv.gz', sep='\t')
 df.head()
 ~~~
 
+[Aquí](https://github.com/podemosaprender/data_indec_eph/blob/master/ejemplos/eph_tutorial_0.ipynb) se puede ver un ejemplo completo, y probarlo en Colab
+
 ASK: dev@mauriciocap.com
