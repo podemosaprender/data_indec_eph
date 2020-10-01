@@ -17,4 +17,12 @@ df.head()
 
 [Aquí](https://github.com/podemosaprender/data_indec_eph/blob/master/ejemplos/eph_tutorial_0.ipynb) se puede ver un ejemplo completo, y probarlo en Colab
 
+## Próximos pasos
+
+Links a metodología e interpretación, se podrían agregar ejemplos Python/Colab y contribuir por ej. a https://diegokoz.github.io/Curso_R_EPH_clases/
+
+
+
+
+
 ASK: dev@mauriciocap.com
